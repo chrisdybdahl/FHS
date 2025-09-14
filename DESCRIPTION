@@ -4,9 +4,8 @@ Title: Rolling window forecast of VaR and ES using FHS
 Version: 0.1.0
 Author: Christopher Laloi Dybdahl
 Maintainer: Christopher Laloi Dybdahl <christdy@stud.ntnu.no>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Description: Package for FHS with rolling window and recalibration frequency. Sample data is EEX German power futures returns.
+License: MIT license
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.3.2
